@@ -9,4 +9,4 @@ Stage may contain direct logic, or can contain another Stages (***CompoundStage*
 - Developers can take additional role as a **SoftfareArchitect** or **TeamLead**, by wrapping themselves in corresponding wrappers (***`Decorator pattern`***)
 - Each Developer also has main **Technology** (it can be **JS** or **Python**) (***`Bridge pattern`***)
 ### Conceptual UML diagram:
-![txt](https://github.com/olehhaliak/university-patterns-module2/blob/master/Conceptual%20UML.png)
+![UML diagram](https://github.com/olehhaliak/university-patterns-module2/blob/master/Conceptual%20UML%20diagram.png)
